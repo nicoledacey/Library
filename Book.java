@@ -172,17 +172,4 @@ this.cost == bookPassed.cost
 
 }//end method
 
-/*
-public static void main(String[] args)
-{
-Book b1 = new Book();
-Book b2 = new Book("1984", "Orwell", 500, "Fiction", true, 19.95);
-Book b3 = new Book("", "", -1, "Great", true, -1);
-System.out.println(b1.toString());
-System.out.println(b2.toString());
-
-}//end method
-
-*/
-
 }//end class
